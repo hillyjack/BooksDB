@@ -25,41 +25,41 @@
       "ImgUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Rye_catcher.jpg"
     },
     {
-      "Author": "John Steinbeck ",
+      "Author": "John Steinbeck",
       "Date": "06-08-1923",
       "Title": "The Grapes of Wrath",
       "ImgUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/JohnSteinbeck_TheGrapesOfWrath.jpg"
     },
+    {
+      "Author": "John Steinbeck",
+      "Date": "01-06-1874",
+      "Title": "Of Mice and Men",
+      "ImgUrl": "https://pbs.twimg.com/profile_images/468042662340460544/nTp4OODo.jpeg"
+    },
+    {
+      "Author": "Ray Bradbury",
+      "Date": "03-11-1937",
+      "Title": "Fahrenheit 451",
+      "ImgUrl": "http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451673265_9781451673265_hr.jpg"
+    },
 
     {
-      "Author": "Hilly",
-      "Date": "02-11-1964",
-      "Title": "To Kill a Mockingbird",
-      "ImgUrl": ""
+      "Author": "Nathaniel Hawthorne",
+      "Date": "17-12-1894",
+      "Title": "The Scarlet Letter",
+      "ImgUrl": "http://prodimage.images-bn.com/pimages/9781593082079_p0_v4_s192x300.jpg"
     },
     {
-      "Author": "Hilly",
-      "Date": "02-11-1964",
-      "Title": "To Kill a Mockingbird",
-      "ImgUrl": ""
+      "Author": "Truman Capote",
+      "Date": "18-08-1952",
+      "Title": "In Cold Blood",
+      "ImgUrl": "https://images-na.ssl-images-amazon.com/images/I/519BkIcyAML._SX303_BO1,204,203,200_.jpg"
     },
     {
-      "Author": "Hilly",
-      "Date": "02-11-1964",
-      "Title": "To Kill a Mockingbird",
-      "ImgUrl": ""
-    },
-    {
-      "Author": "Hilly",
-      "Date": "02-11-1964",
-      "Title": "To Kill a Mockingbird",
-      "ImgUrl": ""
-    },
-    {
-      "Author": "Hilly",
-      "Date": "02-11-1964",
-      "Title": "To Kill a Mockingbird",
-      "ImgUrl": ""
+      "Author": "Edgar Allan Poe",
+      "Date": "27-06-1879",
+      "Title": "The Tell-Tale Heart and Other Writings",
+      "ImgUrl": "http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781416950264_9781416950264_hr.jpg"
     }
   ]
 }
